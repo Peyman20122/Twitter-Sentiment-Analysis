@@ -35,7 +35,7 @@ We implemented and compared two main models:
   2. CNN for local pattern extraction  
   3. LSTM for sequential context learning  
   4. Fully Connected Layer for classification  
-- **Accuracy**: ~ **92%**
+- **Accuracy**: ~ **90%**
 
 ---
 
