@@ -44,7 +44,7 @@ We implemented and compared two main models:
 | Model | Accuracy | Key Advantage |
 |-------|----------|---------------|
 | Word2Vec + CNN + LSTM | 87% | Faster, simpler, uses pre-trained vectors (`cc.id.300.vec`) |
-| BERT + CNN + LSTM | 92% | Understands context, better for polysemy & complex sentences |
+| BERT + CNN + LSTM | 90% | Understands context, better for polysemy & complex sentences |
 
 ---
 
